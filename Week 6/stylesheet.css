@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#0FA5E2;
+}
+
+li {
+	list-style-type: none;
+	margin: auto auto;
+	width: 80%;
+	padding: 20px;
+}
+
+img {
+	padding: 20px;
+}
+
+h1 {
+	align-self:center;
+	width:400px;
+	heignt:30px;
+	background:linear-gradient(to bottom right, red, white);
+	text-align:center;
+	margin: auto;
+	padding:10px;
+	font-size:32px;
+}
+
+h2 {
+	text-align:center;
+	margin: auto;
+	padding: 20px;
+	font-size:24px;
+}
+
+p {
+	margin: auto;	
+	padding: 10px;
+	text-align:center;
+}
